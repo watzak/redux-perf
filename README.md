@@ -23,11 +23,16 @@ const store = createStore(reducer, applyMiddleware(ReduxThunk, stopwatch));
 
 
 ## All Credits to original author
-Alexander Reardon (https://github.com/alexreardon)
+[Alexander Reardon](https://github.com/alexreardon)
 
-Original post (https://medium.com/@alexandereardon/performance-optimisations-for-react-applications-b453c597b191#.q0uobfylw)
+[Original post](https://medium.com/@alexandereardon/performance-optimisations-for-react-applications-b453c597b191#.q0uobfylw)
 
 
 
 ### License
 MIT
+
+
+##DEM=
+
+![Alt Text](https://github.com/watzak/redux-perf/raw/master/redux-perf.gif)
