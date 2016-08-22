@@ -1,0 +1,27 @@
+{
+  "name": "redux-perf",
+  "version": "1.0.0",
+  "description": "Simple redux performance middleware => stopwatch, time measurement of actions where state is changed  ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watzak/redux-perf.git"
+  },
+  "keywords": [
+    "redux",
+    "performance",
+    "middleware",
+    "stopwatch",
+    "time",
+    "measurement"
+  ],
+  "author": "Klaus Zahiragic <klaus.zahiragic@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watzak/redux-perf/issues"
+  },
+  "homepage": "https://github.com/watzak/redux-perf#readme"
+}
