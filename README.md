@@ -33,6 +33,6 @@ const store = createStore(reducer, applyMiddleware(ReduxThunk, stopwatch));
 MIT
 
 
-##DEM=
+##DEMO
 
 ![Alt Text](https://github.com/watzak/redux-perf/raw/master/redux-perf.gif)
