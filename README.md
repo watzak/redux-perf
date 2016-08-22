@@ -28,8 +28,7 @@ const store = createStore(reducer, applyMiddleware(ReduxThunk, stopwatch));
 [Original post](https://medium.com/@alexandereardon/performance-optimisations-for-react-applications-b453c597b191#.q0uobfylw)
 
 
-
-### License
+## License
 MIT
 
 
