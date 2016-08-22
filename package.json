@@ -1,6 +1,6 @@
 {
   "name": "redux-perf",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Simple redux performance middleware | stopwatch, time measurement of actions where state is changed  ",
   "main": "index.js",
   "scripts": {
